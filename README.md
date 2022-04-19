@@ -46,3 +46,14 @@ Stripe's API is integrated to authorise your card and complete the required tran
    ```sh
    $ npm run serve
    ```
+   
+## Images
+
+#### Home Page
+![Screenshot (750)](https://user-images.githubusercontent.com/39690050/163922983-bfbad32f-2d15-41fd-8dee-a82b8a3fc4a8.png)
+
+#### Product Description
+![Screenshot (752)](https://user-images.githubusercontent.com/39690050/163922773-740978fc-161a-4a63-b94e-6ec1bca8ecc4.png)
+
+#### Cart Items
+![Screenshot (751)](https://user-images.githubusercontent.com/39690050/163922908-52815b07-1d22-423a-abec-1c57e9f6825b.png)
